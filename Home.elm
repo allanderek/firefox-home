@@ -158,6 +158,7 @@ viewBody =
                   , Link "Pakk issues" "https://github.com/dogpakk/pakk/issues"
                   , Link "Admin issues" "https://github.com/dogpakk/pakk-admin-issues/issues"
                   , Link "Tenant Manager" "https://tapaslunch-clouddev-admin.pakk.io:4011"
+                  , Link "Translator" "https://tapaslunch-local-admin.pakk.io:4012"
                   ]
                 , [ Link "Remember The Milk" "https://www.rememberthemilk.com/app/#all"
                   , Link "Clouddev" "https://clouddev.pakk.io:4013/"
