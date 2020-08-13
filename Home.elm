@@ -29,7 +29,8 @@ homeSections =
           , Link "Formula 1" "https://www.formula1.com/"
           , Link "Formula E" "https://www.fiaformulae.com/en/results/standings/team"
           ]
-        , [ Link "Castbox" "https://castbox.fm"
+        , [ Link "PoF cast" "https://castbox.fm/channel/The-Price-of-Football-id2586896?country=us"
+          , Link "Scribd" "https://www.scribd.com/"
           , Link "Blinkist" "https://www.blinkist.com/en"
           , Link "Elm Discourse" "https://discourse.elm-lang.org/"
           , Link "Hackernews" "https://news.ycombinator.com/"
@@ -48,6 +49,7 @@ homeSections =
           , Link "Pole Predction" "https://pole-prediction.now.sh"
           , Link "Duolingo" "https://www.duolingo.com/learn"
           , Link "LyricsTranslate" "https://lyricstranslate.com/en/zemfira-lyrics.html"
+          , Link "Guitar Music Theory" "https://www.daveconservatoire.org/lesson/what-is-music-playlist"
           ]
         ]
     , Section "Covid19"
@@ -66,6 +68,12 @@ homeSections =
           , Link "Tenant Manager" "https://tapaslunch-clouddev-admin.pakk.io:4011"
           , Link "Translator" "https://tapaslunch-local-admin.pakk.io:4012"
           , Link "Pakk Form" "https://forum.pakk.io"
+          ]
+        , [ Link "boutique" "https://boutique-demo.pakk.io"
+          , Link "restaurant" "https://restaurant-demo.pakk.io"
+          , Link "fv" "https://fv-demo.pakk.io"
+          , Link "demos" "https://pakk.io/post-category/running-on-pakk"
+          , Link "Demos-admin" "https://showcase-admin.pakk.store/"
           ]
         , [ Link "Remember The Milk" "https://www.rememberthemilk.com/app/#all"
           , Link "Clouddev" "https://clouddev.pakk.io:4013/"
