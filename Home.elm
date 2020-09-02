@@ -38,6 +38,7 @@ homeSections =
           , Link "ReadSpike" "https://readspike.com/"
           , Link "Lemmy" "https://dev.lemmy.ml/"
           , Link "Youtube" "https://www.youtube.com"
+          , Link "LukePeerTube" "https://videos.lukesmith.xyz/videos/local"
           ]
         , [ Link "Edinburgh Live" "https://www.edinburghlive.co.uk/"
           , Link "LegibleNews" "https://legiblenews.com/"
@@ -64,10 +65,10 @@ homeSections =
         [ [ Link "Tapas-Admin" "https://tapaslunch-clouddev-admin.pakk.io:4010/"
           , Link "Tapas-Commerce" "https://tapaslunch-clouddev.pakk.io:4010/"
           , Link "Pakk issues" "https://github.com/dogpakk/pakk/issues"
-          , Link "Admin issues" "https://github.com/dogpakk/pakk-admin-issues/issues"
           , Link "Tenant Manager" "https://tapaslunch-clouddev-admin.pakk.io:4011"
           , Link "Translator" "https://tapaslunch-local-admin.pakk.io:4012"
           , Link "Pakk Form" "https://forum.pakk.io"
+          , Link "Pakk twitter" "https://twitter.com/pakksoftware"
           ]
         , [ Link "boutique" "https://boutique-demo.pakk.io"
           , Link "restaurant" "https://restaurant-demo.pakk.io"
