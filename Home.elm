@@ -29,8 +29,10 @@ homeSections =
           , Link "Formula 1" "https://www.formula1.com/"
           , Link "Formula E" "https://www.fiaformulae.com/en/results/standings/team"
           ]
-        , [ Link "PoF cast" "https://castbox.fm/channel/The-Price-of-Football-id2586896?country=us"
+        , [ Link "PoF cast" "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3ByaWNlLW9mLWZvb3RiYWxs?sa=X&ved=2ahUKEwiq8pCo14HsAhVvFsAKHSArB5gQ9sEGegQIARAC"
+          , Link "PoF cast" "https://castbox.fm/channel/The-Price-of-Football-id2586896?country=us"
           , Link "Scribd" "https://www.scribd.com/"
+          , Link "StoryGraph" "https://beta.thestorygraph.com"
           , Link "Blinkist" "https://www.blinkist.com/en"
           , Link "Elm Discourse" "https://discourse.elm-lang.org/"
           , Link "Hackernews" "https://news.ycombinator.com/"
@@ -48,7 +50,9 @@ homeSections =
           , Link "Online-Go" "https://online-go.com/overview"
           , Link "Poker now" "https://network.pokernow.club/"
           , Link "Pole Predction" "https://pole-prediction.now.sh"
+          , Link "PL Predictions" "https://premier-league-predictions.surge.sh/"
           , Link "Duolingo" "https://www.duolingo.com/learn"
+          , Link "FPL" "https://fantasy.premierleague.com/entry/4638047/event/1"
           , Link "LyricsTranslate" "https://lyricstranslate.com/en/zemfira-lyrics.html"
           , Link "Guitar Music Theory" "https://www.daveconservatoire.org/lesson/what-is-music-playlist"
           ]
@@ -57,6 +61,7 @@ homeSections =
         [ [ Link "NHS" "https://www.nhs.uk/"
           , Link "Flatten" "https://flattenthecurve.global/united-kingdom"
           , Link "Dashboard" "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
+          , Link "Tabby" "https://www.travellingtabby.com/scotland-coronavirus-tracker/"
           ]
         , [ Link "Tesco C&C" "https://www.tesco.com/groceries/en-GB/slots/delivery"
           ]
@@ -75,6 +80,7 @@ homeSections =
           , Link "fv" "https://fv-demo.pakk.io"
           , Link "demos" "https://pakk.io/post-category/running-on-pakk"
           , Link "Demos-admin" "https://showcase-admin.pakk.store/"
+          , Link "Pakk.io/es admin" "https://pakk-admin.pakk.store/"
           ]
         , [ Link "Remember The Milk" "https://www.rememberthemilk.com/app/#all"
           , Link "Clouddev" "https://clouddev.pakk.io:4013/"
