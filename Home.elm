@@ -8,11 +8,11 @@ import Html.Attributes as Attributes
 homeSections : List Section
 homeSections =
     [ Section "Common"
-        [ [ Link "RSS" "https://nextcloud.poleprediction.com/nextcloud/index.php/apps/news/#/items/unread"
-          , Link "Twitter" "https://tweetdeck.twitter.com/"
+        [ [ Link "Twitter" "https://tweetdeck.twitter.com/"
           , Link "Elm Discourse" "https://discourse.elm-lang.org/"
           , Link "Edinburgh Live" "https://www.edinburghlive.co.uk/"
           , Link "LegibleNews" "https://legiblenews.com/"
+          , Link "RSS" "https://nextcloud.poleprediction.com/nextcloud/index.php/apps/news/#/items/unread"
           ]
         , [ Link "Gmail" "http://www.gmail.com"
           , Link "PakkMail" "https://privateemail.com/appsuite"
