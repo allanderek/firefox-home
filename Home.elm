@@ -27,6 +27,7 @@ homeSections =
           ]
         , [ Link "Fotmob" "https://www.fotmob.com"
           , Link "The Athletic" "https://theathletic.co.uk/"
+          , Link "FBref" "https://fbref.com/en/comps/9/Premier-League-Stats"
           , Link "Caley Graphics" "https://twitter.com/Caley_graphics"
           , Link "538 Premier League" "https://projects.fivethirtyeight.com/soccer-predictions/premier-league/"
           , Link "Formula 1" "https://www.formula1.com/"
@@ -35,6 +36,7 @@ homeSections =
         , [ Link "PoF cast" "https://play.acast.com/s/price-of-football"
           , Link "Scribd" "https://www.scribd.com/"
           , Link "StoryGraph" "https://beta.thestorygraph.com"
+          , Link "Library Athena" "https://www.libraryathena.com"
           , Link "Blinkist" "https://www.blinkist.com/en"
           , Link "Elm Matrix" "https://app.element.io/#/room/!zdIsyCFASpLfudWkIZ:matrix.org"
           , Link "Hackernews" "https://news.ycombinator.com/"
