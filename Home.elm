@@ -41,7 +41,7 @@ homeSections =
           , Link "Elm Matrix" "https://app.element.io/#/room/!zdIsyCFASpLfudWkIZ:matrix.org"
           , Link "Hackernews" "https://news.ycombinator.com/"
           , Link "Lobst.er" "https://lobste.rs"
-          , Link "ReadSpike" "https://readspike.com/"
+          , Link "ReadSpike" "https://spike.news"
           , Link "Youtube" "https://www.youtube.com"
           , Link "Nebula" "https://nebula.app/"
           , Link "Curiosity stream" "https://curiositystream.com/"
@@ -53,6 +53,7 @@ homeSections =
           , Link "Duolingo" "https://www.duolingo.com/learn"
           , Link "LyricsTranslate" "https://lyricstranslate.com/en/zemfira-lyrics.html"
           , Link "Guitar Music Theory" "https://www.daveconservatoire.org/lesson/what-is-music-playlist"
+          , Link "Cash Register" "https://planetradio.co.uk/forth/competitions/win/terms-sco/"
           ]
         ]
     , Section "Covid19"
