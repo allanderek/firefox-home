@@ -12,11 +12,11 @@ homeSections =
           , Link "Elm Discourse" "https://discourse.elm-lang.org/"
           , Link "Edinburgh Live" "https://www.edinburghlive.co.uk/"
           , Link "LegibleNews" "https://legiblenews.com/"
-          , Link "RSS" "https://nextcloud.poleprediction.com/nextcloud/index.php/apps/news/#/items/unread"
+          , Link "RSS-NC" "https://nextcloud.poleprediction.com/nextcloud/index.php/apps/news/#/items/unread"
+          , Link "RSS-FR" "https://feedreader.com/online/#/reader/category/all/"
           ]
         , [ Link "Gmail" "http://www.gmail.com"
           , Link "PakkMail" "https://privateemail.com/appsuite"
-          -- , Link "NewsFeed" "https://theoldreader.com/posts/all"
           , Link "Instapaper" "https://www.instapaper.com"
           , Link "Whatsapp" "https://web.whatsapp.com/"
           , Link "Translate" "https://translate.google.co.uk"
@@ -29,6 +29,7 @@ homeSections =
           , Link "The Athletic" "https://theathletic.co.uk/"
           , Link "FBref" "https://fbref.com/en/comps/9/Premier-League-Stats"
           , Link "Caley Graphics" "https://twitter.com/Caley_graphics"
+          , Link "Nitter Caley" "https://nitter.net/search?f=tweets&q=caley_graphics"
           , Link "538 Premier League" "https://projects.fivethirtyeight.com/soccer-predictions/premier-league/"
           , Link "Formula 1" "https://www.formula1.com/"
           , Link "Formula E" "https://www.fiaformulae.com/en/results/standings/team"
@@ -38,32 +39,49 @@ homeSections =
           , Link "StoryGraph" "https://beta.thestorygraph.com"
           , Link "Library Athena" "https://www.libraryathena.com"
           , Link "Blinkist" "https://www.blinkist.com/en"
-          , Link "Elm Matrix" "https://app.element.io/#/room/!zdIsyCFASpLfudWkIZ:matrix.org"
-          , Link "Hackernews" "https://news.ycombinator.com/"
-          , Link "Lobst.er" "https://lobste.rs"
-          , Link "ReadSpike" "https://spike.news"
           , Link "Youtube" "https://www.youtube.com"
           , Link "Nebula" "https://nebula.app/"
           , Link "Curiosity stream" "https://curiositystream.com/"
+          , Link "Standard Ebooks" "https://standardebooks.org/"
           ]
-        , [ Link "Pole Predction" "https://pole-prediction.now.sh"
+        , [ Link "Pole Predction" "https://poleprediction.com"
           , Link "PL Predictions" "https://premier-league-predictions.surge.sh/"
           , Link "Online-Go" "https://online-go.com/overview"
           , Link "Poker now" "https://network.pokernow.club/"
           , Link "Duolingo" "https://www.duolingo.com/learn"
           , Link "LyricsTranslate" "https://lyricstranslate.com/en/zemfira-lyrics.html"
           , Link "Guitar Music Theory" "https://www.daveconservatoire.org/lesson/what-is-music-playlist"
+          , Link "Guitar muted" "https://muted.io/guitar-chords/"
+          , Link "Stelarium" "https://stellarium-web.org/"
           , Link "Cash Register" "https://planetradio.co.uk/forth/competitions/win/terms-sco/"
           ]
-        ]
-    , Section "Covid19"
-        [ [ Link "NHS Vaccination account" "https://vacs.nhs.scot/csp"
-          , Link "NHS" "https://www.nhs.uk/"
-          , Link "Flatten" "https://flattenthecurve.global/united-kingdom"
-          , Link "Dashboard" "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
-          , Link "Tabby" "https://www.travellingtabby.com/scotland-coronavirus-tracker/"
+        , [ Link "Wordle" "https://www.nytimes.com/games/wordle/index.html"
+          , Link "Framed" "https://framed.wtf/"
+          , Link "Worldle" "https://worldle.teuteuf.fr/"
+          , Link "Quordle" "https://www.quordle.com/#/"
           ]
-        , [ Link "Tesco C&C" "https://www.tesco.com/groceries/en-GB/slots/delivery"
+        ]
+    , Section "Programming"
+        [ [ Link "Elm Matrix" "https://app.element.io/#/room/!zdIsyCFASpLfudWkIZ:matrix.org"
+          , Link "Helix Matrix" "https://app.element.io/#/room/#helix-editor:matrix.org"
+          , Link "Hackernews" "https://news.ycombinator.com/"
+          , Link "Lobst.er" "https://lobste.rs"
+          , Link "ReadSpike" "https://spike.news"
+          ]
+        , [ Link "Sad servers" "https://sadservers.com/scenarios"
+          , Link "Soul" "https://github.com/thevahidal/soul"
+          , Link "SQL teaching" "https://www.sqlteaching.com/"
+          , Link "DevEnv" "https://devenv.sh/"
+          ]
+        , [ Link "Test latency" "http://gfblip.appspot.com/" ]
+        , [ Link "Awesome Self-hosted" "https://github.com/awesome-selfhosted/awesome-selfhosted"
+          , Link "gPodder" "https://gpodder.net"
+          ]
+        ]
+    , Section "Family"
+        [ [ Link "U19 Warrendar Park" "https://teamer.net/teams/111754978-u19-warrender-2019"
+          , Link "U14 Scotland NDS" "https://swpu14boysnds.teamapp.com/?_webpage=v1"
+          , Link "U16 Scotland NDS" "https://scottishwaterpolou16boys.teamapp.com/?_webpage=v1"
           ]
         ]
     , Section "Work"
@@ -71,7 +89,7 @@ homeSections =
           , Link "Tapas-Commerce" "https://tapaslunch-clouddev.pakk.io:4010/"
           , Link "Pakk issues" "https://github.com/dogpakk/pakk/issues"
           , Link "Tenant Manager" "https://tapaslunch-clouddev-admin.pakk.io:4011"
-          , Link "Translator" "https://tapaslunch-clouddev.pakk.io:4012/" 
+          , Link "Translator" "https://tapaslunch-clouddev.pakk.io:4012/"
           , Link "Pakk Form" "https://forum.pakk.io"
           , Link "Pakk twitter" "https://twitter.com/pakksoftware"
           ]
@@ -95,12 +113,21 @@ homeSections =
           , Link "Clouddev:4014" "https://clouddev.pakk.io:4014/"
           , Link "PP blog" "blog.poleprediction.com/"
           ]
-        , [ Link "Elm package" "https://package.elm-lang.org/" 
+        , [ Link "Elm package" "https://package.elm-lang.org/"
           , Link "Elm Ellie Catalog" "https://janiczek-ellies.builtwithdark.com/"
           ]
-
         , [ Link "SaasHub" "https://www.saashub.com/"
           , Link "ProductHunt" "https://www.producthunt.com/"
+          ]
+        ]
+    , Section "Covid19"
+        [ [ Link "NHS Vaccination account" "https://vacs.nhs.scot/csp"
+          , Link "NHS" "https://www.nhs.uk/"
+          , Link "Flatten" "https://flattenthecurve.global/united-kingdom"
+          , Link "Dashboard" "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
+          , Link "Tabby" "https://www.travellingtabby.com/scotland-coronavirus-tracker/"
+          ]
+        , [ Link "Tesco C&C" "https://www.tesco.com/groceries/en-GB/slots/delivery"
           ]
         ]
     , Section "Idle"
@@ -116,6 +143,10 @@ homeSections =
           ]
         , [ Link "Firefox Monitor" "https://monitor.firefox.com/"
           ]
+        , [ Link "Emulator games" "https://emulatorgames.online/games/nes"
+          , Link "Play old games" "https://playold.games/"
+          ]
+        , [ Link "Talk Russian with AI" "https://talk.quazel.com/chat" ]
         ]
     ]
 
