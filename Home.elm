@@ -9,6 +9,7 @@ homeSections : List Section
 homeSections =
     [ Section "Common"
         [ [ Link "Twitter" "https://tweetdeck.twitter.com/"
+          , Link "Mastodon" "https://techhub.social/home"
           , Link "Elm Discourse" "https://discourse.elm-lang.org/"
           , Link "Edinburgh Live" "https://www.edinburghlive.co.uk/"
           , Link "LegibleNews" "https://legiblenews.com/"
@@ -22,21 +23,27 @@ homeSections =
           , Link "Translate" "https://translate.google.co.uk"
           ]
         , [ Link "Coinbase" "https://www.coinbase.com/dashboard"
-          , Link "Betfair" "https://www.betfair.com/exchange"
           , Link "Sporting Index" "https://www.sportingindex.com"
+          , Link "ChatGPT" "https://chat.openai.com/chat"
+          ]
+        , [ Link "Betfair" "https://www.betfair.com/exchange"
+          , Link "FBref" "https://fbref.com/en/comps/9/Premier-League-Stats"
+          , Link "538 Premier League" "https://projects.fivethirtyeight.com/soccer-predictions/premier-league/"
+          , Link "EuroCI" "https://www.euroclubindex.com/match-odds/"
           ]
         , [ Link "Fotmob" "https://www.fotmob.com"
+          , Link "Sofascore" "https://www.sofascore.com/"
           , Link "The Athletic" "https://theathletic.co.uk/"
-          , Link "FBref" "https://fbref.com/en/comps/9/Premier-League-Stats"
           , Link "Caley Graphics" "https://twitter.com/Caley_graphics"
+          , Link "Elo ratings" "https://eloratings.net/"
           , Link "Nitter Caley" "https://nitter.net/search?f=tweets&q=caley_graphics"
-          , Link "538 Premier League" "https://projects.fivethirtyeight.com/soccer-predictions/premier-league/"
           , Link "Formula 1" "https://www.formula1.com/"
           , Link "Formula E" "https://www.fiaformulae.com/en/results/standings/team"
           ]
         , [ Link "PoF cast" "https://play.acast.com/s/price-of-football"
           , Link "Scribd" "https://www.scribd.com/"
           , Link "StoryGraph" "https://beta.thestorygraph.com"
+          , Link "Bookwyrm" "https://bookwyrm.social/"
           , Link "Library Athena" "https://www.libraryathena.com"
           , Link "Blinkist" "https://www.blinkist.com/en"
           , Link "Youtube" "https://www.youtube.com"
@@ -53,15 +60,19 @@ homeSections =
           , Link "Guitar Music Theory" "https://www.daveconservatoire.org/lesson/what-is-music-playlist"
           , Link "Guitar muted" "https://muted.io/guitar-chords/"
           , Link "Stelarium" "https://stellarium-web.org/"
-          , Link "Cash Register" "https://planetradio.co.uk/forth/competitions/win/terms-sco/"
+
+          -- , Link "Cash Register" "https://planetradio.co.uk/forth/competitions/win/terms-sco/"
+          , Link "Super jackpot" "https://planetradio.co.uk/forth/competitions/win/super-jackpot/"
           ]
         , [ Link "Wordle" "https://www.nytimes.com/games/wordle/index.html"
           , Link "Framed" "https://framed.wtf/"
           , Link "Worldle" "https://worldle.teuteuf.fr/"
+          , Link "WhereTaken" "https://wheretaken.teuteuf.fr/"
           , Link "Quordle" "https://www.quordle.com/#/"
+          , Link "waffle" "https://wafflegame.net/"
           ]
         ]
-    , Section "Programming"
+    , Section "Programming - Side projects"
         [ [ Link "Elm Matrix" "https://app.element.io/#/room/!zdIsyCFASpLfudWkIZ:matrix.org"
           , Link "Helix Matrix" "https://app.element.io/#/room/#helix-editor:matrix.org"
           , Link "Hackernews" "https://news.ycombinator.com/"
@@ -77,12 +88,18 @@ homeSections =
         , [ Link "Awesome Self-hosted" "https://github.com/awesome-selfhosted/awesome-selfhosted"
           , Link "gPodder" "https://gpodder.net"
           ]
+        , [ Link "Jargon file" "http://www.catb.org/jargon/html/index.html"
+          , Link "C2 wiki" "http://wiki.c2.com"
+          ]
+        , [ Link "Random Colour Pairs" "https://randoma11y.com/"]
+        , [ Link "Builders" "https://buildlist.org/" ]
         ]
-    , Section "Family"
+    , Section "Family and Travel"
         [ [ Link "U19 Warrendar Park" "https://teamer.net/teams/111754978-u19-warrender-2019"
           , Link "U14 Scotland NDS" "https://swpu14boysnds.teamapp.com/?_webpage=v1"
           , Link "U16 Scotland NDS" "https://scottishwaterpolou16boys.teamapp.com/?_webpage=v1"
           ]
+        , [ Link "Ember buses" "https://www.ember.to/" ]
         ]
     , Section "Work"
         [ [ Link "Tapas-Admin" "https://tapaslunch-clouddev-admin.pakk.io:4010/"
@@ -92,6 +109,7 @@ homeSections =
           , Link "Translator" "https://tapaslunch-clouddev.pakk.io:4012/"
           , Link "Pakk Form" "https://forum.pakk.io"
           , Link "Pakk twitter" "https://twitter.com/pakksoftware"
+          , Link "Postmark status" "https://ea5d5bbc.sorryapp.com/"
           ]
         , [ Link "Live Tenant Manager" "https://tm.pakk.io"
           , Link "Pakk.io" "https://pakk.io"
@@ -119,6 +137,9 @@ homeSections =
         , [ Link "SaasHub" "https://www.saashub.com/"
           , Link "ProductHunt" "https://www.producthunt.com/"
           ]
+        , [ Link "Taiga" "https://www.taiga.io/"
+          , Link "Fractale" "https://fractale.co/"
+          ]
         ]
     , Section "Covid19"
         [ [ Link "NHS Vaccination account" "https://vacs.nhs.scot/csp"
@@ -137,6 +158,7 @@ homeSections =
         , [ Link "Russian Reddit" "https://www.reddit.com/r/russia"
           , Link "Russian BBC" "https://www.bbc.com/russian"
           , Link "Super easy russian" "https://www.youtube.com/watch?v=rTABVinNm_4&list=PLA5UIoabheFMRV-A92wr5G4lJZCx-ITMd"
+          , Link "Books in Russian" "http://www.booksinrussian.co.uk/russian-books/111132/"
           ]
         , [ Link "Wttr" "https://wttr.in/Edinburgh"
           , Link "RateSx" "https://rate.sx/"
