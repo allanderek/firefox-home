@@ -72,6 +72,50 @@ homeSections =
           , Link "waffle" "https://wafflegame.net/"
           ]
         ]
+    , Section "Work"
+        [ [ Link "Clouddev - admin" "https://tapaslunch-clouddev-admin.pakk.io:3010/"
+          , Link "Clouddev - commerce" "https://tapaslunch-clouddev.pakk.io:3010/"
+          , Link "Clouddev - Tenant Manager" "https://tapaslunch-clouddev-admin.pakk.io:3011"
+          , Link "Clouddev - Translator" "https://tapaslunch-clouddev.pakk.io:3012/"
+          ]
+        , [ Link "Live Tenant Manager" "https://tm.pakk.io"
+          , Link "Pakk.io/es admin" "https://pakk-admin.pakk.cloud/"
+          ]
+        , [ Link "Flat" "https://go.flat.app/"
+          , Link "Google Cloud Platform" "https://console.cloud.google.com"
+          , Link "Postmark status" "https://ea5d5bbc.sorryapp.com/"
+          , Link "Cloudfare" "https://dash.cloudflare.com/"
+          , Link "DmarcDigests" "https://dmarcdigests.com/domains"
+          ]
+        , [ Link "Pakk.io" "https://pakk.io"
+          , Link "boutique" "https://boutique-demo.pakk.io"
+          , Link "restaurant" "https://restaurant-demo.pakk.io"
+          , Link "fv" "https://fv-demo.pakk.io"
+          , Link "demos" "https://pakk.io/post-category/running-on-pakk"
+          , Link "Demos-admin" "https://showcase-admin.pakk.cloud/"
+          , Link "BB-medamask-admin" "https://britishbins-admin.pakk.cloud/"
+          , Link "Medamask" "https://britishbins-mm.pakk.cloud/"
+          , Link "Naku" "https://naku.uk"
+          , Link "Naku-admin" "https://tapaslunch-admin.pakk.cloud/"
+          , Link "Tapas Live Admin" "https://tapaslunch-admin.pakk.cloud/"
+          , Link "DPS" "https://directplumbingsupplies.com/"
+          , Link "DPS - admin" "https://directplumbing-admin.pakk.cloud/"
+          ]
+        , [ Link "Clouddev:4012" "https://clouddev.pakk.io:4012/"
+          , Link "Clouddev:4013" "https://clouddev.pakk.io:4013/"
+          , Link "Clouddev:4014" "https://clouddev.pakk.io:4014/"
+          , Link "PP blog" "blog.poleprediction.com/"
+          ]
+        , [ Link "Elm package" "https://package.elm-lang.org/"
+          , Link "Elm Ellie Catalog" "https://janiczek-ellies.builtwithdark.com/"
+          ]
+        , [ Link "SaasHub" "https://www.saashub.com/"
+          , Link "ProductHunt" "https://www.producthunt.com/"
+          ]
+        , [ Link "Taiga" "https://www.taiga.io/"
+          , Link "Fractale" "https://fractale.co/"
+          ]
+        ]
     , Section "Programming - Side projects"
         [ [ Link "Elm Matrix" "https://app.element.io/#/room/!zdIsyCFASpLfudWkIZ:matrix.org"
           , Link "Helix Matrix" "https://app.element.io/#/room/#helix-editor:matrix.org"
@@ -83,6 +127,8 @@ homeSections =
           , Link "Soul" "https://github.com/thevahidal/soul"
           , Link "SQL teaching" "https://www.sqlteaching.com/"
           , Link "DevEnv" "https://devenv.sh/"
+          , Link "Lost at SQL" "https://lost-at-sql.therobinlord.com/"
+          , Link "Exploit notes" "https://exploit-notes.hdks.org/"
           ]
         , [ Link "Test latency" "http://gfblip.appspot.com/" ]
         , [ Link "Awesome Self-hosted" "https://github.com/awesome-selfhosted/awesome-selfhosted"
@@ -100,46 +146,6 @@ homeSections =
           , Link "U16 Scotland NDS" "https://scottishwaterpolou16boys.teamapp.com/?_webpage=v1"
           ]
         , [ Link "Ember buses" "https://www.ember.to/" ]
-        ]
-    , Section "Work"
-        [ [ Link "Tapas-Admin" "https://tapaslunch-clouddev-admin.pakk.io:4010/"
-          , Link "Tapas-Commerce" "https://tapaslunch-clouddev.pakk.io:4010/"
-          , Link "Pakk issues" "https://github.com/dogpakk/pakk/issues"
-          , Link "Tenant Manager" "https://tapaslunch-clouddev-admin.pakk.io:4011"
-          , Link "Translator" "https://tapaslunch-clouddev.pakk.io:4012/"
-          , Link "Pakk Form" "https://forum.pakk.io"
-          , Link "Pakk twitter" "https://twitter.com/pakksoftware"
-          , Link "Postmark status" "https://ea5d5bbc.sorryapp.com/"
-          ]
-        , [ Link "Live Tenant Manager" "https://tm.pakk.io"
-          , Link "Pakk.io" "https://pakk.io"
-          , Link "boutique" "https://boutique-demo.pakk.io"
-          , Link "restaurant" "https://restaurant-demo.pakk.io"
-          , Link "fv" "https://fv-demo.pakk.io"
-          , Link "demos" "https://pakk.io/post-category/running-on-pakk"
-          , Link "Demos-admin" "https://showcase-admin.pakk.store/"
-          , Link "Pakk.io/es admin" "https://pakk-admin.pakk.store/"
-          , Link "BB-medamask-admin" "https://britishbins-admin.pakk.store/"
-          , Link "Medamask" "https://britishbins-mm.pakk.store/"
-          , Link "Naku" "https://naku.uk"
-          , Link "Naku-admin" "https://tapaslunch-admin.pakk.store/"
-          , Link "Tapas Live Admin" "https://tapaslunch-admin.pakk.store/"
-          ]
-        , [ Link "Remember The Milk" "https://www.rememberthemilk.com/app/#all"
-          , Link "Clouddev:4012" "https://clouddev.pakk.io:4012/"
-          , Link "Clouddev:4013" "https://clouddev.pakk.io:4013/"
-          , Link "Clouddev:4014" "https://clouddev.pakk.io:4014/"
-          , Link "PP blog" "blog.poleprediction.com/"
-          ]
-        , [ Link "Elm package" "https://package.elm-lang.org/"
-          , Link "Elm Ellie Catalog" "https://janiczek-ellies.builtwithdark.com/"
-          ]
-        , [ Link "SaasHub" "https://www.saashub.com/"
-          , Link "ProductHunt" "https://www.producthunt.com/"
-          ]
-        , [ Link "Taiga" "https://www.taiga.io/"
-          , Link "Fractale" "https://fractale.co/"
-          ]
         ]
     , Section "Covid19"
         [ [ Link "NHS Vaccination account" "https://vacs.nhs.scot/csp"
