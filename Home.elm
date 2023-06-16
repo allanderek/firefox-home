@@ -101,9 +101,12 @@ homeSections =
           , Link "DPS" "https://directplumbingsupplies.com/"
           , Link "DPS - admin" "https://directplumbing-admin.pakk.cloud/"
           ]
-        , [ Link "Clouddev:4012" "https://clouddev.pakk.io:4012/"
-          , Link "Clouddev:4013" "https://clouddev.pakk.io:4013/"
-          , Link "Clouddev:4014" "https://clouddev.pakk.io:4014/"
+        , [ Link "Scoutreach-dev" "https://scoutreach.dev.poleprediction.com/"
+          , Link "Scoutreach-dev-tm" "https://scoutreach.dev.poleprediction.com/tm"
+          ]
+        , [ Link "Clouddev:4012" "https://dev.poleprediction.com:4012/"
+          , Link "Clouddev:4013" "https://dev.poleprediction.com:4013/"
+          , Link "Clouddev:4014" "https://dev.poleprediction.com:4014/"
           , Link "PP blog" "blog.poleprediction.com/"
           ]
         , [ Link "Elm package" "https://package.elm-lang.org/"
