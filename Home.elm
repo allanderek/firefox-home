@@ -126,6 +126,7 @@ homeSections =
           , Link "Hackernews" "https://news.ycombinator.com/"
           , Link "Lobst.er" "https://lobste.rs"
           , Link "ReadSpike" "https://spike.news"
+          , Link "SkimFeed" "https://skimfeed.com/"
           ]
         , [ Link "Sad servers" "https://sadservers.com/scenarios"
           , Link "Soul" "https://github.com/thevahidal/soul"
